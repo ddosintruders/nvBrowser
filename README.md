@@ -16,6 +16,11 @@
 
 </div>
 
+> [!CAUTION]  
+> This browser is specifically designed for privacy and research/testing purposes.
+> Use of the browser in illegal ways is **NOT** encouraged.
+> The author(s) of this project are not liable for any misconduct performed using this project's contents.
+
 ## Overview
 
 nvBrowser extends the privacy-hardened foundation of LibreWolf by adding powerful profile management and configurable fingerprinting capabilities. Each profile maintains its own metadata configuration, network routing preferences, and fingerprint resistance settings, enabling users to switch between different browsing identities seamlessly.
