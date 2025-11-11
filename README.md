@@ -8,6 +8,14 @@
   nvBrowser is a project aimed to make a fully-editable metadata environment based browser, focusing on research, testing, and privacy.
 </p>
 
+<div align="center">
+
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I5I0713E)
+
+</div>
+
 ## Overview
 
 nvBrowser extends the privacy-hardened foundation of LibreWolf by adding powerful profile management and configurable fingerprinting capabilities. Each profile maintains its own metadata configuration, network routing preferences, and fingerprint resistance settings, enabling users to switch between different browsing identities seamlessly.
@@ -134,9 +142,9 @@ See [LICENSE](LICENSE) for full license text.
 
 ## Credits
 
-**Design & Development**: Adrian Ahmed  
+**Design & Development**: Adnan Ahmed  
 **Built with AI Collaboration**: Developed in partnership with Claude (Anthropic)  
-**Real-Life Testing**: M. Janoowalla  
+**Usage Testing**: M. Janoowalla  
 **Based on**: LibreWolf Project, Mozilla Firefox
 
 ---
@@ -145,7 +153,6 @@ See [LICENSE](LICENSE) for full license text.
 
 - **Source Code**: [GitHub Repository](https://github.com/ddosintruders/nvBrowser)
 - **Documentation**: Coming soon
-- **Issue Tracker**: [GitHub Issues](#)
 - **Developer**: [Portfolio/Contact](https://adnan-ahmed.pages.dev)
 
 ---
