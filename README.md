@@ -13,6 +13,9 @@
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)    ![Static Badge](https://img.shields.io/badge/Supported_Platforms-Windows_|_Linux_|_macOS-red)    ![Static Badge](https://img.shields.io/badge/In_Development-Windows_|_Linux-cyan)    ![Static Badge](https://img.shields.io/badge/Priority_Development-Windows-darkgreen)
 
 
+![Static Badge](https://img.shields.io/badge/Current_Architecture_Development-x86__64-pink)
+
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I5I0713E)
 
 </div>
@@ -21,6 +24,13 @@
 > This browser is specifically designed for privacy and research/testing purposes.
 > Use of the browser in illegal ways is **NOT** encouraged.
 > The author(s) of this project are not liable for any misconduct performed using this project's contents.
+
+<div align="center">
+
+<img src="https://github.com/ddosintruders/nvBrowser/blob/main/Resources/Interface%20Designs%20(First%20Iterations)/Profile%20Manager%20(Main%20Hub)/Profile%20Manager%20(Main%20Hub).png">
+<p> <em>First iteration of the Profile Manager in Settings menu for nvBrowser <b>(Subject to Change) (Nov 2025)</b> </em> </p>
+
+</div>
 
 ## Overview
 
