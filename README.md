@@ -13,7 +13,7 @@
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)    ![Static Badge](https://img.shields.io/badge/Supported_Platforms-Windows_|_Linux_|_macOS-red)    ![Static Badge](https://img.shields.io/badge/In_Development-Windows_|_Linux-cyan)    ![Static Badge](https://img.shields.io/badge/Priority_Development-Windows-darkgreen)
 
 
-![Static Badge](https://img.shields.io/badge/Current_Architecture_Development-x86__64-pink)
+![Static Badge](https://img.shields.io/badge/Current_Architecture_Development-x86__64-pink)    ![GitHub last commit](https://img.shields.io/github/last-commit/ddosintruders/nvbrowser)
 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I5I0713E)
