@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Resources/Icons/nvBrowser Icon Version 1.png" alt="nvBrowser Logo" width=100>
+  <img src="Resources/Icons/nvBrowser Logo v2.png" alt="nvBrowser Logo" width=100>
 </p>
   
 <h1 align="center">nvBrowser</h1>
