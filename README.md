@@ -39,7 +39,7 @@
 
 ## Overview
 
-nvBrowser extends the privacy-hardened foundation of LibreWolf by adding powerful profile management and configurable fingerprinting capabilities. Each profile maintains its own metadata configuration, network routing preferences, and fingerprint resistance settings, enabling users to switch between different browsing identities seamlessly.
+nvBrowser ~~extends the privacy-hardened foundation of LibreWolf~~ uses Python as the base to deliver a powerful privacy-centered browser by adding powerful profile management and configurable fingerprinting capabilities. Each profile maintains its own metadata configuration, network routing preferences, and fingerprint resistance settings, enabling users to switch between different browsing identities seamlessly.
 
 ### Key Features
 
@@ -77,9 +77,9 @@ nvBrowser is currently in early development. The core profile management system 
 
 ## Built With
 
-- **Base**: LibreWolf (Firefox ESR fork)
-- **Languages**: JavaScript, C++, Rust, HTML, CSS
-- **Build System**: Mozilla Build System (mach)
+- **Base**: Python
+- **Languages**: Python, HTML, CSS
+- **Build System**: PyInstaller
 - **Installer**: NSIS (Nullsoft Scriptable Install System)
 
 ---
@@ -108,9 +108,8 @@ Interface designs and screenshots will be added as features are implemented.
 ## Roadmap
 
 ### Phase 1: Foundation
-- Set up build environment
-- Successful LibreWolf compilation
-- Basic branding changes
+- Set up Python logic and programming
+- Add UI tweaks and optimizations.
 
 ### Phase 2: Core Features
 - Profile management system
@@ -155,7 +154,7 @@ nvBrowser is provided as-is for legitimate privacy research, testing, and person
 
 ## License
 
-nvBrowser is licensed under the Mozilla Public License 2.0 (MPL 2.0), maintaining compatibility with the LibreWolf and Firefox codebases.
+nvBrowser is licensed under the MIT License.
 
 See [LICENSE](LICENSE) for full license text.
 
@@ -166,7 +165,7 @@ See [LICENSE](LICENSE) for full license text.
 **Design & Development**: Adnan Ahmed  
 **Built with AI Collaboration**: Developed in partnership with Claude (Anthropic)  
 **Usage Testing**: M. Janoowalla  
-**Based on**: LibreWolf Project, Mozilla Firefox
+**Based on**: Python, PyQt6-WebEngine
 
 ---
 
@@ -181,9 +180,8 @@ See [LICENSE](LICENSE) for full license text.
 ## Acknowledgments
 
 nvBrowser builds upon the excellent work of:
-- The LibreWolf team for their privacy-focused Firefox fork
-- The Mozilla Foundation for the Firefox browser and Gecko engine
-- The Tor Project for pioneering browser fingerprint resistance techniques
+- Python's easy logic system
+- Developer's ambition to hardening privacy
 - The open-source privacy community
 
 ---
