@@ -27,8 +27,8 @@
 
 
 > [!TIP]  
-> Current plans for development for macOS is now halted due to inaccessibility to Mac Hardware.
-> Public/Community development is accepted. [Please Contact Me](https://adnan-ahmed.pages.dev) for plans on developing for macOS.
+> Due to the change in the browser's base, macOS development is now available through .py file.
+> Build instructions are coming soon in the Documentation.
 
 <div align="center">
 
