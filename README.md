@@ -154,9 +154,26 @@ nvBrowser is provided as-is for legitimate privacy research, testing, and person
 
 ## License
 
-nvBrowser is licensed under the MIT License.
+nvBrowser is licensed under **AGPL v3** (GNU Affero General Public License v3).
 
-See [LICENSE](LICENSE) for full license text.
+### What this means:
+- ✅ Free to use, modify, and distribute
+- ✅ All modifications must be open source
+- ✅ If you run a modified version as a service, you must share the code
+- ❌ Cannot create closed-source derivatives
+
+### Responsible Use
+nvBrowser is designed for legitimate purposes:
+- Privacy research and testing
+- Web development testing
+- Personal privacy protection
+- Cross-platform compatibility testing
+
+**Users are solely responsible for their use of this software.**
+Using nvBrowser for illegal activities, fraud, or violating terms 
+of service is strictly discouraged and not endorsed by the developers.
+
+The developers are not liable for any misuse of this software.
 
 ---
 
