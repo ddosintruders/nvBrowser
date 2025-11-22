@@ -89,19 +89,12 @@ nvBrowser is currently in early development. The core profile management system 
 ### Prerequisites
 
 - Windows 10/11 (current build target)
-- 40-60GB free disk space
+- Python3 (Visit [here](https://www.python.org/downloads/) to install Python if you do not have it)
 - 8GB RAM minimum (16GB recommended)
-- Git for version control
 
 ### Building from Source
 
-Detailed build instructions will be provided as the project progresses. The build process follows LibreWolf's compilation workflow with nvBrowser-specific modifications.
-
----
-
-## Screenshots
-
-Interface designs and screenshots will be added as features are implemented.
+Detailed build instructions will be provided as the project progresses...
 
 ---
 
