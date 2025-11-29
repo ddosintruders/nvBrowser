@@ -46,11 +46,11 @@ nvBrowser ~~extends the privacy-hardened foundation of LibreWolf~~ uses Python a
 - **Multi-Profile Management**: Create, edit, and switch between named profiles with distinct configurations
 - **Configurable Metadata**: Customize OS name, hostname, user-agent, ISP label, timezone, locale, and location per profile
 - **Fingerprint Resistance Modes**: Choose between Minimal, Resist, or Dev modes for different levels of fingerprint protection
-- **Network Routing Options**: Configure profiles to use direct connections, Tor, VPN, or custom proxies
+- **Network Routing Options**: Implementations with PyQt is to be developed yet.
 - **Real-Time Provenance Panel**: Visual display showing active overrides and spoofed values
 - **Profile Import/Export**: Share and backup profiles using JSON format
 - **Audit Logging**: Track profile changes and browser actions with local logs
-- **Privacy by Default**: Built on LibreWolf's telemetry-free, tracking-resistant foundation
+- **Privacy by Default**: Built on PyQt6 which is on top of the Chromium browser, that is de-googled.
 
 ---
 
@@ -115,6 +115,7 @@ Detailed build instructions will be provided as the project progresses...
 - Real-time provenance panel
 
 ### Phase 4: Network Integration
+- **Yet To Be Implemented**
 - Tor/VPN routing per profile
 - Proxy configuration management
 - Connection monitoring
