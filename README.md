@@ -173,7 +173,7 @@ The developers are not liable for any misuse of this software.
 ## Credits
 
 **Design & Development**: Adnan Ahmed  
-**Built with AI Collaboration**: Developed in partnership with Claude (Anthropic)  
+**Built with AI Collaboration**: Developed in partnership with Claude (Anthropic)  /   Separate research-based development is extended due to AI errors
 **Usage Testing**: M. Janoowalla  
 **Based on**: Python, PyQt6-WebEngine
 
