@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)    ![Static Badge](https://img.shields.io/badge/Supported_Platforms-Windows_|_Linux-red)    ![Static Badge](https://img.shields.io/badge/In_Development-Windows_|_Linux-cyan)    ![Static Badge](https://img.shields.io/badge/Priority_Development-Windows-002080)
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)    ![Static Badge](https://img.shields.io/badge/Supported_Platforms-Windows_|_Linux_|_macOS-red)    ![Static Badge](https://img.shields.io/badge/In_Development-Windows_|_Linux-cyan)    ![Static Badge](https://img.shields.io/badge/Priority_Development-Windows-002080)
 
 
 ![Static Badge](https://img.shields.io/badge/Current_Architecture_Development-x86__64-800020)    ![GitHub last commit](https://img.shields.io/github/last-commit/ddosintruders/nvBrowser)
